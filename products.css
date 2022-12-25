@@ -1,0 +1,22 @@
+
+body{
+    margin: 0;
+    padding: 0;
+ }
+ div{
+   display: inline-block;
+   margin-left: 60px;
+}
+ section{
+   text-align: center;
+   margin: 0 auto;
+   position: relative;
+ }
+ #img2{
+    width: 250px;
+    height: 230px;
+ }
+ button{
+    font-size: 15px;
+    background-color: aqua;
+ }

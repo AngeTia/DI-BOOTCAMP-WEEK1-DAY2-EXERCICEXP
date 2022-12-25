@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+#body_log{
+   background-image: url(./img/shop.jpg);
+   background-size: cover;
+}
+#link{
+   float: right;
+   margin-right: 15px;
+}
+.navbar{
+   color: white;
+   background-color: black;
+   padding: 15px;
+}
+footer{
+   bottom: 0px;
+}
+a{
+   color: white;
+   text-decoration: none;
+}
+.wrapper{
+   color: black;
+   text-align: center;
+   font-size: 25px;
+}
+/* p > button:hover{
+   color: aliceblue;
+} */
+#img2:hover button{
+   color: white;
+}
+.form-signin{
+   padding: 250px;
+   margin: 15px;
+}
+
+.form-signin button{
+   background-color: blue;
+   font-size: 15px;
+   padding: 1%;
+}
+input{
+   padding: 1%;
+   margin: 3px;
+}
+input label{
+   padding: 4px;
+   margin: 5px;
+}
+input:hover{
+   color: blue;
+}
+footer{
+   position: fixed;
+   bottom: 0;
+   text-align: center;
+}
